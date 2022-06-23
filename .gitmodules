@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psda"]
+	path = psda
+	url = https://github.com/wagnerjorge/psda
+	shallow = true
+	registered = true
